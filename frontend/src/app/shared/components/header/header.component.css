@@ -1,0 +1,35 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+.mainDiv {
+  width: 94%;
+  margin: auto;
+  position: relative;
+  top: 30px;
+}
+
+.matToolbar {
+  background-color: #fff;
+  border-radius: 15px;
+}
+.bothImage {
+  display: flex;
+  position: relative;
+}
+.memoriesImage {
+  height: 40px;
+}
+
+.memoriesLogo {
+  height: 30px;
+  position: absolute;
+  right: -40px;
+  top: 8px;
+}
+.signUpButton{
+  border-radius: 3px;
+  border-radius: 5px;
+  padding: 2px 26px;
+  font-size: 15px;
+  cursor: pointer;
+}
